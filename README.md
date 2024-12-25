@@ -16,6 +16,21 @@ ChatGPTによると、spオシレーターはMA5-MA10で計算できるらしい
 上に行くほど買われ過ぎ。過熱感がある。
 下に行くほど売られ過ぎ。
 
+SP500
+![SP500先物](https://github.com/rti7743/sp_Oscillator/blob/main/sp_oscillator_ES%3DF.jpg)
+
+NASDAQ100
+![NASDAQ100先物](https://github.com/rti7743/sp_Oscillator/blob/main/sp_oscillator_NQ%3DF.jpg)
+
+BTC
+![BTC=F](https://github.com/rti7743/sp_Oscillator/blob/main/sp_oscillator_BTC%3DF.jpg)
+
+ドル円
+![BTC=F](https://github.com/rti7743/sp_Oscillator/blob/main/sp_oscillator_USDJPY%3DX.jpg)
+
+日経平均
+![日経平均は日経新聞社の著作物](https://github.com/rti7743/sp_Oscillator/blob/main/sp_oscillator_NIY%3DF.jpg)
+
 
 上にいって、赤い線(Overbought)を越えたら買われ過ぎ。
 紫の線(Sell)を越えたら売りタイミング。もち空売りでも可。
